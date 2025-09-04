@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 Game Developer at [Avataryug](https://avataryug.com).
+- 🔍 Game Developer at [Avataryug](https://avataryug.com).
 
-- 👨‍💻 See my portfolio
+- 🖥️ See my portfolio
   
-- 📫 Any Queries? **sherwinchettiar1@gmail.com**
+- 🙋‍♂️ Any Queries? **sherwinchettiar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
