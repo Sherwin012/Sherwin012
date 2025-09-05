@@ -2,7 +2,7 @@
 
 - 🔍 Game Developer at [Avataryug](https://avataryug.com).
 
-- 🖥️ See my portfolio
+- 🖥️ See my portfolio https://sherwin012.github.io/github-portfolio/
   
 - 🙋‍♂️ Any Queries? **sherwinchettiar1@gmail.com**
 
